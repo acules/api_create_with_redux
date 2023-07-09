@@ -20,6 +20,20 @@
       "alamat": "Kp Muara",
       "umur": 20,
       "no_hp": "484554544"
+    },
+    {
+      "id": 4,
+      "nama": "Zaenab",
+      "alamat": "Kp Baru",
+      "umur": 12,
+      "no_hp": "484554544"
+    },
+    {
+      "id": 5,
+      "nama": "Rukayah",
+      "alamat": "Kp Nanas",
+      "umur": 12,
+      "no_hp": "484554544"
     }
   ]
 }
