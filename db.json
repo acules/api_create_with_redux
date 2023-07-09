@@ -9,73 +9,17 @@
     },
     {
       "id": 2,
-      "nama": "Mulyono",
-      "alamat": "Kp Bali",
-      "umur": 21,
-      "no_hp": "087875888888"
+      "nama": "Indra",
+      "alamat": "Kp Muara",
+      "umur": "18",
+      "no_hp": "484554544"
     },
     {
-      "id": 3,
-      "nama": "Andika",
-      "alamat": "Kp Bali",
-      "umur": 25,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 4,
-      "nama": "Mery",
-      "alamat": "Kp Bali",
-      "umur": 22,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 5,
-      "nama": "Kisanak",
-      "alamat": "Kp Bali",
-      "umur": 17,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 6,
-      "nama": "Fauzi",
-      "alamat": "Kp Bali",
-      "umur": 17,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 7,
-      "nama": "Rossy",
-      "alamat": "Kp Bali",
-      "umur": 17,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 8,
-      "nama": "Shifa",
-      "alamat": "Kp Bali",
-      "umur": 20,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 9,
-      "nama": "Anjani",
-      "alamat": "Kp Bali",
-      "umur": 20,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 10,
-      "nama": "Badrun",
-      "alamat": "Kp Bali",
-      "umur": 18,
-      "no_hp": "087875888888"
-    },
-    {
-      "id": 11,
-      "nama": "Alisia",
-      "alamat": "Kp Bali",
-      "umur": 22,
-      "no_hp": "087875888888"
+      "id": 2,
+      "nama": "Indra",
+      "alamat": "Kp Muara",
+      "umur": "18",
+      "no_hp": "484554544"
     }
   ]
 }
