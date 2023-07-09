@@ -10,15 +10,15 @@
     {
       "id": 2,
       "nama": "Indra",
-      "alamat": "Kp Muara",
-      "umur": "18",
+      "alamat": "Kp Bandang",
+      "umur": 18,
       "no_hp": "484554544"
     },
     {
-      "id": 2,
-      "nama": "Indra",
+      "id": 3,
+      "nama": "Almeera",
       "alamat": "Kp Muara",
-      "umur": "18",
+      "umur": 20,
       "no_hp": "484554544"
     }
   ]
